@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Tattoo",
-    "slug": "Tattoo",
+    "name": "TatMaker",
+    "slug": "tatmaker",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A matching app for tattoo artists and clients to connect",
+    "githubUrl": "https://github.com/k-burns/tatmaker"
   }
 }
